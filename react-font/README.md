@@ -1,7 +1,7 @@
-## How to add Fonts to a React Project
+# How to add Fonts to a React Project
 
 
-1. Using @font-face
+## Using @font-face
 ```
 @font-face {
   font-family: 'Open Sans';
@@ -20,7 +20,7 @@ body {
 }
 ```
 
-2. @font-face 
+## @font-face 
 **[Titillium Web](https://fonts.google.com/?selection.family=Titillium+Web:300,400,700)**
 To quickly add the fonts to our react project, simple open public/index.html and paste the embed code provided within the tags.
 ```
@@ -39,7 +39,7 @@ body {
 }
 ```
 
-3. Using Web Font Loader
+## Using Web Font Loader
 ```
 npm install webfontloader --save
 ```
