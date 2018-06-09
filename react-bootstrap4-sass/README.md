@@ -1,7 +1,6 @@
 ## React-bootstrap4-sass
 
-**[Adding a CSS Preprocessor (Sass, Less etc.)]
-(https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)**
+**[Adding a CSS Preprocessor (Sass, Less etc.)](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)**
 
 
 1. Install the command-line interface for Sass, the package to run tasks in parallel and Bootstrap 4.
